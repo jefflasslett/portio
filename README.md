@@ -41,7 +41,8 @@ for the `value` parameter will clear the bit.
 ghc -o portio Main.hs options.hs --make
 ```
 
-I really must start using `cabal` for this sort of thing.
+OR jump into the project dir and issue `cabal install`
+
 
 ### Complications
 
